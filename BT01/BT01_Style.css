@@ -1,0 +1,14 @@
+/* SS05_BT01_Nguyễn Bình Lam Nghi */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#submit {
+    border-bottom: 5px double green;
+    border-top: 3px solid red;
+    border-left: 5px groove purple;
+    border-right: 3px dotted purple ;
+}

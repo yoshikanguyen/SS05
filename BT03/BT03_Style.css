@@ -1,0 +1,21 @@
+/* SS05_BT03_Nguyễn Bình Lam Nghi */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+button:hover {
+  background-color: red;
+  color: white;
+  border: none;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 2px;
+  border: none;
+}

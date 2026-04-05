@@ -1,0 +1,19 @@
+/* SS05_BT02_Nguyễn Bình Lam Nghi */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  background-color: rgb(222, 222, 222);
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  font-size: smaller;
+}
+
+li:hover {
+  background-color: grey;
+}
