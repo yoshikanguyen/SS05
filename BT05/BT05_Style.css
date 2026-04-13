@@ -1,0 +1,53 @@
+/* SS05_BT05_Nguyễn Bình Lam Nghi */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  width: 300px;
+  height: 200px;
+  margin: 50px;
+  color: white;
+  background-color: rgb(93, 87, 87);
+}
+
+#Fadein {
+  background-color: rgb(217, 217, 217);
+}
+
+#Fadein:hover {
+  background-color: rgb(93, 87, 87);
+}
+
+#Color:hover {
+  background-color: rgb(60, 154, 255);
+}
+
+#Grow:hover {
+  scale: 1.2;
+}
+
+#Shrink:hover {
+  scale: 0.8;
+}
+
+#Rotate:hover {
+  transform: rotate(-30deg);
+}
+
+#StoC:hover {
+  border-radius: 50%;
+}
+
+#Border:hover {
+  border: 10px solid rgb(0, 175, 224);
+}
